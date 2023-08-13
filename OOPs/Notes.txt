@@ -1,0 +1,2 @@
+Classes k objects are mutable (like lists)
+ref : CampusX Yt | Complete OOP 1 video
