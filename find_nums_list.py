@@ -1,4 +1,4 @@
-# solution by Amoolya (statsure analystics, Jun/23)
+# solution by Amoolya (job interview / statsure analystics, Jun/23)
 # same solution in GFG website
 # Time complexity: O(n^2), where n is the size of the list
 
