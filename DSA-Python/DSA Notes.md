@@ -1,0 +1,11 @@
+## Progress
+
+
+## source : Codebasics - yt
+
+## DS : Arrays, Linked list, Hash table, Stacks, Queues
+## General Tree, Binary Search Tree 
+## left - Graph
+
+
+## Algo : Binary Search, Bubble Sort
