@@ -1,4 +1,14 @@
-# solution by Amoolya (statsure analystics, Jun/23)
+"""
+Q-) Given a list of numbers and a target value
+find pairs of numbers whose sum is equal to target value
+
+"""
+
+
+
+
+
+# solution by Amoolya (job interview / statsure analystics, Jun/23)
 # same solution in GFG website
 # Time complexity: O(n^2), where n is the size of the list
 
