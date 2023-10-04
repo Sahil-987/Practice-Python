@@ -1,2 +1,8 @@
 Classes k objects are mutable (like lists)
 ref : CampusX Yt | Complete OOP 1 video
+
+
+
+Class Variables
+
+>>> aka static Variables (ref: code-yug Yt | ts - 01:45 Object Oriented Programming in Python -13 | Staticmethod in Python)
