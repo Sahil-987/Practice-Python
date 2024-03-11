@@ -1,0 +1,39 @@
+1. using os 
+
+import os
+
+var_api_key = os.environ["var_name"]
+or
+var_api_key = os.environ.get("var_name")
+
+
+Note:
+Chatgpt | march/24
+However, it's important to ensure that the .env file has been loaded into the environment variables before you try to access api_key. 
+This is typically done using a library like python-dotenv or by manually loading the .env file before accessing any variables. 
+Otherwise, if the .env file hasn't been loaded, os.environ.get("api_key") will return None.
+
+
+
+2. using dotenv 
+pip install python-dotenv
+
+from dotenv import load_dotenv
+load_dotenv()
+
+os.environ.get("var_name")
+or 
+os.getenv("var_name")
+
+
+
+
+3. using decouple 
+
+pip install python-decouple
+
+
+from decouple import config 
+
+var_api_key = config("var_name")
+
