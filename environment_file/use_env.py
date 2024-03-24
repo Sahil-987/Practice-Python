@@ -13,3 +13,9 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 print(os.getenv("api_key"))
+
+
+
+### Method-3
+from decouple import config 
+print(config("api_key"))
